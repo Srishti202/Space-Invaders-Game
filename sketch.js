@@ -123,7 +123,7 @@ count = count+1
     obstacleGroup.destroyEach()
   }
   
-  if(damage===10){
+  if(damage===100){
     gameState='end'
   
   }
